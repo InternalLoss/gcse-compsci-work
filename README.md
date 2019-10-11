@@ -1,8 +1,8 @@
 # ARI Text Program.
-## Author: Billy
-
 This program is designed to calculate and store the ARI of a text, along with other variables.
 
+# Why?
+This code was a required assessed piece for my GCSE. Other components of the assessment (such as the documents) are not included. This was done offline with in-built, Python 3 documentation, IDLE, and Notepad++ ~~and a LOT of Red Bull~~ so if it looks sloppy then feel free to laugh at me! I'm not going to accept PRs/issues for this code, because it's just here as an archive for me to laugh at in 5 years.
 
 ## Programs
 
